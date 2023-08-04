@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-ngnix:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-04T15:22:04.126442192+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d16ac3583769e50a7a30c9d38d2e206a2013d056c2ea0c56004013cd1e704333
+    name: my-ngnix
+    type: application
+    urls:
+    - https://github.com/nishithaaritakula/helm-charts/my-ngnix-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-04T15:22:04.125399662+05:30"
